@@ -4,6 +4,7 @@
 #include <queue>
 #include <thread>
 #include <vector>
+#include <string>
 
 #define NUM_CPU_STATES 10
 #define HISTOGRAM_ARRAY_SIZE 10
